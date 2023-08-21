@@ -7,6 +7,6 @@
 
   A ReactJS portfolio website. <br />Responsive for all devices, built using HTML, CSS, JavaScript, Tailwind CSS and React.
 
-  <a href="https://zerobrofan.github.io/SoleStyle-eCommerce-website/index.html"><strong>➥ Live Demo</strong></a>
+  <a href="https://zerobrofan.github.io/react-portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
