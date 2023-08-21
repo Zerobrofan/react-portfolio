@@ -1,6 +1,11 @@
 {
+  "homepage": "https://zerobrofan.github.io/react-portfolio",
   "short_name": "React Portfolio",
   "name": "Abdallah Amir's React Portfolio",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
   "icons": [
     {
       "src": "favicon.ico",
